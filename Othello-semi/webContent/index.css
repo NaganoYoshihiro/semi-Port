@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+	background-image:url(./image/rogo.png);
+	background-size: cover;
+	font-size: 50px;
+}
+input.example1{
+width: 50%;
+height:50px;
+}
+
+input.sample4{
+width:200px;
+height:50px;
+}
